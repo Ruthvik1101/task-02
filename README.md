@@ -1,1 +1,1 @@
-# task-02
+In this task, the dataset (train.csv) was first loaded using the Pandas library. Missing values were identified and visualized using a bar plot created with Matplotlib to understand their distribution across features. Numerical columns were cleaned by imputing missing values with the median, while categorical columns were handled using mode imputation. Columns containing more than 40% missing values were removed to improve data quality. Finally, the dataset was validated by comparing its size and overall quality before and after the cleaning process.
